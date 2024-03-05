@@ -16,7 +16,6 @@ For extended background and additional research, please check out the ["Enhancin
 
 |**Link**|**One-liner description**|**API [Link]**|**Help needed?**|
 | :- | :- | :- | :- |
-|[Stanford Coronavirus Antiviral & Resistance Database (CoVDB)](https://covdb.stanford.edu/)|Stanford Coronavirus Antiviral & Resistance Database (CoVDB)|||
 |[AIDS Dataset - Papers With Code](https://paperswithcode.com/dataset/aids)|2000 graphs representing molecular compounds which are constructed from the AIDS Antiviral Screen Database of Active Compound|||
 |[Laboratory Biosafety Manual BSL-2 and BSL 2/3](https://ors.od.nih.gov/sr/dohs/Documents/bsl-2-lab-safety-manual.pdf)|Laboratory Biosafety Manual BSL-2 and BSL 2/3|||
 |[GenomeArk](https://www.genomeark.org/)|Genome sequencing data for hundreds of organisms|||
@@ -56,7 +55,6 @@ For extended background and additional research, please check out the ["Enhancin
 |[ClinicalTrials.gov](https://clinicaltrials.gov/)|Database of Clinical Trials|[API](https://clinicaltrials.gov/data-api/api)||
 |[DrugMAP](http://drugmap.idrblab.net/)|The Molecular Atlas and Pharma Information of Drugs|||
 |[The Pharma Encyclopedia](https://www.rxference.com/)|The Pharma Encyclopedia|||
-|[HIV Databases](https://www.hiv.lanl.gov/content/index)|HIV Databases|||
 |[PubChem](https://pubchem.ncbi.nlm.nih.gov/)|The world's largest collection of freely accessible chemical information|[API](https://pubchem.ncbi.nlm.nih.gov//docs/pug-rest)||
 |[Vaccine Tracker](https://vac-lshtm.shinyapps.io/ncov_vaccine_landscape/)|COVID 19 Vaccine Tracker|||
 |[COVID-19 vaccine tracker - RAPS](https://www.raps.org/news-and-articles/news-articles/2020/3/covid-19-vaccine-tracker)|COVID 19 Vaccine Tracker (2)|||
@@ -65,16 +63,15 @@ For extended background and additional research, please check out the ["Enhancin
 |[RCoV19 Version 4.0 Resource for Coronavirus 2019](https://ngdc.cncb.ac.cn/ncov/?lang=en)|RCoV19 Resource for Coronavirus 2019|||
 |[COVID-19 Biologics Tracker - The Antibody Society](https://www.antibodysociety.org/covid-19-biologics-tracker/)|COVID-19 Biologics Tracker - The Antibody Society|||
 |[STAT's Covid-19 Drugs and Vaccines Tracker](https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/)|STAT's Covid-19 Drugs and Vaccines Tracker|||
-|[COVID 19 Data Portal](https://www.covid19dataportal.org/)|COVID 19 Data Portal|||
 |[Home - SRA - NCBI](https://www.ncbi.nlm.nih.gov/sra)|Largest publicly available repository of high throughput sequencing data|||
-|[CoV-Seq](http://covseq.baidu.com/)|COVID-19 Genomic Sequence Database and Visualization|||
+|[DrugBank](https://go.drugbank.com/)| Database with information on drugs and drug targets| [API](https://www.drugbank.com/clinical)||
+
 
 ## Paper Search
 
 |**Link**|**One-liner description**|**API [Link]**|**Help needed?**|
 | :- | :- | :- | :- |
 |[PubMed](https://pubmed.ncbi.nlm.nih.gov/)|Pubmed indexes biological and medical literature|[API](https://www.ncbi.nlm.nih.gov/home/develop/api/)||
-|[Google Search Operators: The Complete List (42 Advanced Operators)](https://ahrefs.com/blog/google-advanced-search-operators/)|Google Search Operators: The Complete List (42 Advanced Operators)|||
 |[bioRxiv](https://www.biorxiv.org/)|Preprint server for biological research|||
 |[medRxiv](https://www.medrxiv.org/)|Preprint server for medical research|||
 
@@ -104,6 +101,7 @@ For extended background and additional research, please check out the ["Enhancin
 |[BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)|Sequence alignment tool|[API](https://blast.ncbi.nlm.nih.gov/doc/blast-help/developerinfo.html#developerinfo)||
 |[CoV3D](https://cov3d.ibbr.umd.edu/)|structures of coronavirus proteins and their recognition by antibodies and other molecules|||
 |[COVID-19 protein structures in the PDB](https://www.ebi.ac.uk/thornton-srv/databases/cgi-bin/pdbsum/GetPage.pl?pdbcode=n/a&template=covid19.html)|COVID-19 protein structures in the PDB|||
+|[EarthRanger](https://www.earthranger.com/)| Data visualization and analysis software for Protected Area Management| Yes| Extract used datasets |
 
 ## Other Dataset Lists & Resources
 
@@ -116,6 +114,7 @@ For extended background and additional research, please check out the ["Enhancin
 |[Papers with Code Biomedical Datasets](https://paperswithcode.com/datasets?mod=biomedical&page=1)|Papers with Code Biomedical Datasets||Extract useful datasets|
 |[GitHub - CDCgov/SARS-CoV-2_Sequencing: A collection of sequencing protocols and bioinformatic resources for SARS-CoV-2 sequencing.](https://github.com/CDCgov/SARS-CoV-2_Sequencing)|SARS-CoV-2 Sequencing Resources|||
 |[COVID-19 Research at UCSC](https://genome.ucsc.edu/covid19.html)|COVID-19 Research at UCSC|||
+|[Data collections - WHO](https://www.who.int/data/collections)| World Health Organization Collections related to global health ||Extract individual datasets|
 
 ## Reading Lists
 
